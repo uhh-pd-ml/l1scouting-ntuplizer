@@ -1,0 +1,10 @@
+<library file="L1ScoutingOrbitNtupleizer.cc" name="L1ScoutingNtupleizerPlugins">
+  <use name="FWCore/Framework"/>
+  <use name="FWCore/ParameterSet"/>
+  <use name="FWCore/Utilities"/>
+  <use name="FWCore/ServiceRegistry"/>
+  <use name="CommonTools/UtilAlgos"/>
+  <use name="DataFormats/L1Scouting"/>
+  <use name="rootcore"/>
+  <flags EDM_PLUGIN="1"/>
+</library>
