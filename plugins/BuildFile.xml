@@ -5,6 +5,7 @@
   <use name="FWCore/ServiceRegistry"/>
   <use name="CommonTools/UtilAlgos"/>
   <use name="DataFormats/L1Scouting"/>
+  <use name="L1TriggerScouting/Utilities"/>
   <use name="rootcore"/>
   <flags EDM_PLUGIN="1"/>
 </library>
